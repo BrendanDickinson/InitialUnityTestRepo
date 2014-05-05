@@ -8,9 +8,9 @@
 #
  
 # OS X only:
-.DS_Store
-*.swp
-*.Trashes
+#.DS_Store
+#*.swp
+#*.Trashes
  
 # All platforms:
 Library
