@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: e89ca021945455e458c52fa21880b999
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - loopingAudio: {fileID: 8300000, guid: ee9777af57c1cb144942ba13e9fd821f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
